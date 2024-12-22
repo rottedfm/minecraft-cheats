@@ -3,7 +3,7 @@
 ## Example Clients
 
 ### Vape V4
-[Website]()
+[VapeV4](https://www.vape.gg/)
 
 Vape V4 is a premium Minecraft cheat client designed for closet cheating, focusing on subtlety to bypass Hypixel's Watchdog.
 
@@ -26,4 +26,9 @@ Vape V4 is a premium Minecraft cheat client designed for closet cheating, focusi
 - Inventory presets (Automatically manage the items that go into each hotbar slot.)
 - Inventory filters (Drop useless items or condense your inventory into a more manageable setup.)
 - More features ( Not paying for client to see all features LMAFO)
+
+### Future
+
+#### Price
+- $24.99/one-time 
 
